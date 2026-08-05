@@ -48,7 +48,10 @@ Core Values:
 ### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Dec 2025 – Present)*
 
 - 🏟️ **CourtPro** — Architected a scalable cross-platform sports facility reservation app with clean, modular Flutter code
-- 📺 Built **CourtPro Watch**, a live scoring feature so players and spectators can follow real-time match scores and updates during ongoing bookings
+- 📺 **Led CourtPro Watch** — a major real-time live-scoring module with running match commentary, built as its own dedicated live-viewer experience (separate from the booking flow):
+  - Real-time score sync engine streaming point-by-point score + commentary updates with sub-second latency
+  - Live match viewer screen: live score ticker, scrolling commentary feed, match timeline
+  - Reconnection & offline-resilience handling so viewers stay in sync after a network drop
 - 💬 Integrated **CometChat** for real-time messaging with read receipts, typing indicators, and live presence tracking
 - 💳 Connected **Stripe** payment gateway and booking APIs for secure, frictionless transactions
 - ⚡ Reduced API response latency by **15%** via caching, request batching, and optimized Dio HTTP handling
@@ -79,10 +82,24 @@ Core Values:
 
 <table>
   <tr>
+    <td width="100%">
+      <h3>📺 CourtPro Watch — Real-Time Live Scoring & Commentary Module</h3>
+      <p><strong>Dec 2025 – Present · Major module I led within CourtPro</strong></p>
+      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time score sync engine with sub-second latency, a live score ticker + scrolling commentary feed + match timeline, and reconnection/offline-resilience handling so spectators stay in sync mid-match.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Firestore-FF6F00?style=flat&logo=firebase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-000000?style=flat"/>
+        <img src="https://img.shields.io/badge/Real--Time-D32F2F?style=flat"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🏟️ CourtPro — Sports Facility Reservation App</h3>
       <p><strong>Dec 2025 – Present</strong></p>
-      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features CourtPro Watch live scoring, live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking views.</p>
+      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking views.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -212,8 +229,9 @@ Government College University, Faisalabad, Pakistan *(2017 – 2021)*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabeel-ahmad-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-ahmad-8bbb371a6/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=nabeeledu.786@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923441423025)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeeledu.786@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923049294304)
+[![Phone 2](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923441423025)
 
 </div>
 
