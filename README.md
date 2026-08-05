@@ -85,7 +85,7 @@ Core Values:
     <td width="100%">
       <h3>📺 CourtPro Watch — Real-Time Live Scoring & Commentary Module</h3>
       <p><strong>Dec 2025 – Present · Major module I led within CourtPro</strong></p>
-      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time sc[...]
+      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time sc[...]</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -99,7 +99,7 @@ Core Values:
     <td width="50%">
       <h3>🏟️ CourtPro — Sports Facility Reservation App</h3>
       <p><strong>Dec 2025 – Present</strong></p>
-      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking v[...]
+      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking v[...]</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -127,7 +127,7 @@ Core Values:
     <td width="50%">
       <h3>🌐 Real-Time Language Translator</h3>
       <p><strong>Feb 2024 – May 2024</strong></p>
-      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline-first Hive stora[...]
+      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline-first Hive stora[...]</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&logo=google&logoColor=white"/>
@@ -230,8 +230,8 @@ Government College University, Faisalabad, Pakistan *(2017 – 2021)*
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabeel-ahmad-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-ahmad-8bbb371a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeeledu.786@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923049294304)
-[![Phone 2](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923441423025)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923049294304)
+[![Phone 2](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923441423025)
 
 </div>
 
