@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nabeel+Ahmad+%F0%9F%91%8B;Flutter+Developer+%7C+iOS+%26+Android;Building+High-Performance+Mobile+Apps+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nabeel+Ahmad+%F0%9F%91%8B;Flutter+Develop[...]
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Available-brightgreen?style=for-the-badge&logo=netlify)](https://nabeel-ahmad-portfolio.vercel.app/)
 [![Location](https://img.shields.io/badge/Location-Lahore%2C+Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blue?style=for-the-badge)](https://maps.google.com/?q=Lahore,Pakistan)
@@ -85,7 +85,7 @@ Core Values:
     <td width="100%">
       <h3>📺 CourtPro Watch — Real-Time Live Scoring & Commentary Module</h3>
       <p><strong>Dec 2025 – Present · Major module I led within CourtPro</strong></p>
-      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time score sync engine with sub-second latency, a live score ticker + scrolling commentary feed + match timeline, and reconnection/offline-resilience handling so spectators stay in sync mid-match.</p>
+      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time sc[...]
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -99,7 +99,7 @@ Core Values:
     <td width="50%">
       <h3>🏟️ CourtPro — Sports Facility Reservation App</h3>
       <p><strong>Dec 2025 – Present</strong></p>
-      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking views.</p>
+      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking v[...]
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -127,7 +127,7 @@ Core Values:
     <td width="50%">
       <h3>🌐 Real-Time Language Translator</h3>
       <p><strong>Feb 2024 – May 2024</strong></p>
-      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline-first Hive storage.</p>
+      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline-first Hive stora[...]
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&logo=google&logoColor=white"/>
