@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nabeel+Ahmad+%F0%9F%91%8B;Flutter+Develop[...]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nabeel+Ahmad+%F0%9F%91%8B;Flutter+Developer+%7C+iOS+%26+Android;Building+High-Performance+Mobile+Apps+%F0%9F%9A%80)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Available-brightgreen?style=for-the-badge&logo=netlify)](https://nabeel-ahmad-portfolio.vercel.app/)
 [![Location](https://img.shields.io/badge/Location-Lahore%2C+Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-blue?style=for-the-badge)](https://maps.google.com/?q=Lahore,Pakistan)
@@ -51,7 +51,6 @@ Core Values:
 - 📺 **Led CourtPro Watch** — a major real-time live-scoring module with running match commentary, built as its own dedicated live-viewer experience (separate from the booking flow):
   - Real-time score sync engine streaming point-by-point score + commentary updates with sub-second latency
   - Live match viewer screen: live score ticker, scrolling commentary feed, match timeline
-  - Reconnection & offline-resilience handling so viewers stay in sync after a network drop
 - 💬 Integrated **CometChat** for real-time messaging with read receipts, typing indicators, and live presence tracking
 - 💳 Connected **Stripe** payment gateway and booking APIs for secure, frictionless transactions
 - ⚡ Reduced API response latency by **15%** via caching, request batching, and optimized Dio HTTP handling
@@ -82,10 +81,10 @@ Core Values:
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="100%" colspan="2">
       <h3>📺 CourtPro Watch — Real-Time Live Scoring & Commentary Module</h3>
       <p><strong>Dec 2025 – Present · Major module I led within CourtPro</strong></p>
-      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time sc[...]</p>
+      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time score sync engine with sub-second latency and a live score ticker + scrolling commentary feed + match timeline.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -99,7 +98,7 @@ Core Values:
     <td width="50%">
       <h3>🏟️ CourtPro — Sports Facility Reservation App</h3>
       <p><strong>Dec 2025 – Present</strong></p>
-      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking v[...]</p>
+      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking views.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -127,7 +126,7 @@ Core Values:
     <td width="50%">
       <h3>🌐 Real-Time Language Translator</h3>
       <p><strong>Feb 2024 – May 2024</strong></p>
-      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline-first Hive stora[...]</p>
+      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline-first Hive storage.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&logo=google&logoColor=white"/>
@@ -230,8 +229,8 @@ Government College University, Faisalabad, Pakistan *(2017 – 2021)*
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabeel-ahmad-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-ahmad-8bbb371a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeeledu.786@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923049294304)
-[![Phone 2](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923441423025)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923049294304)
+[![WhatsApp 2](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923441423025)
 
 </div>
 
