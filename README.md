@@ -23,7 +23,7 @@ Location:    Johar Town, Lahore, Pakistan 🇵🇰
 Current Focus:
   - Cross-Platform Mobile Development with Flutter (iOS & Android)
   - Clean Architecture & State Management (Bloc, Provider, GetX, Riverpod)
-  - IoT Integrations & Real-Time Systems (Tuya SDK, MQTT)
+  - IoT Integrations & Real-Time Systems (Tuya SDK, MQTT, Smart Locks)
   - Firebase Services & Push Notifications
 
 Specialization:
@@ -48,7 +48,7 @@ Core Values:
 ### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Dec 2025 – Present)*
 
 - 🏟️ **CourtPro** — Architected a scalable cross-platform sports facility reservation app with clean, modular Flutter code
-- 📺 **Led CourtPro Watch** — a major real-time live-scoring module with running match commentary, built as its own dedicated live-viewer experience (separate from the booking flow):
+- 📺 **Led CourtPro Watch** — a major real-time live-scoring module with running match commentary, built as its own dedicated Wear OS live-viewer experience (separate from the booking flow):
   - Real-time score sync engine streaming point-by-point score + commentary updates with sub-second latency
   - Live match viewer screen: live score ticker, scrolling commentary feed, match timeline
 - 💬 Integrated **CometChat** for real-time messaging with read receipts, typing indicators, and live presence tracking
@@ -81,20 +81,18 @@ Core Values:
 
 <table>
   <tr>
-    <td width="100%" colspan="2">
-      <h3>📺 CourtPro Watch — Real-Time Live Scoring & Commentary Module</h3>
-      <p><strong>Dec 2025 – Present · Major module I led within CourtPro</strong></p>
-      <p>A dedicated live-viewer experience — <em>separate from the booking flow</em> — delivering real-time, point-by-point live scoring with running match commentary. Includes a real-time score sync engine with sub-second latency and a live score ticker + scrolling commentary feed + match timeline.</p>
+    <td width="50%">
+      <h3>📺 CourtPro Watch — Real-Time Wear OS Live Scoring Module</h3>
+      <p><strong>Dec 2025 – Present · Major Wear OS module led within CourtPro</strong></p>
+      <p>Standalone Wear OS live-match experience delivering real-time scoring, live score ticker, match commentary feed, and timeline updates without phone bookings.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Wear_OS-4285F4?style=flat&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Firestore-FF6F00?style=flat&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebSockets-000000?style=flat"/>
-        <img src="https://img.shields.io/badge/Real--Time-D32F2F?style=flat"/>
+        <img src="https://img.shields.io/badge/Provider-5C6BC0?style=flat"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🏟️ CourtPro — Sports Facility Reservation App</h3>
       <p><strong>Dec 2025 – Present</strong></p>
@@ -106,8 +104,10 @@ Core Values:
         <img src="https://img.shields.io/badge/CometChat-7B61FF?style=flat"/>
         <img src="https://img.shields.io/badge/Provider-5C6BC0?style=flat"/>
       </p>
-      <a href="https://apps.apple.com/us/app/courtpro/id6747027287">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.courtpro.app">Google Play</a>
+      <a href="https://apps.apple.com/us/app/courtpro/id6747027287">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.courtpro.app&hl=en">Google Play</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🌬️ TrustedAir — Smart IoT Control App</h3>
       <p><strong>Jun 2024 – Nov 2025</strong></p>
@@ -119,31 +119,44 @@ Core Values:
         <img src="https://img.shields.io/badge/Bloc-7B61FF?style=flat"/>
         <img src="https://img.shields.io/badge/MQTT-660066?style=flat"/>
       </p>
-      <a href="https://apps.apple.com/us/app/trustedair/id6745402737">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.trusted.air">Google Play</a>
+      <a href="https://apps.apple.com/us/app/trustedair/id6745402737">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.trusted.air&hl=en">Google Play</a>
+    </td>
+    <td width="50%">
+      <h3>🏨 StayHub Guest App — Smart Hospitality & Keyless Entry</h3>
+      <p><strong>2025 · Production Mobile Platform</strong></p>
+      <p>Traveler stay platform with direct host bookings, digital payment checkout, guest identity verification check-in, and IoT smart lock keyless entry.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Smart_Locks_IoT-10B981?style=flat"/>
+        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+      </p>
+      <a href="https://apps.apple.com/no/app/stayhub-guest-%D8%B3%D8%AA%D8%A7%D9%8A-%D9%87%D8%A8-%D8%A7%D9%84%D8%B6%D9%8A%D9%88%D9%81/id6739702919">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.app.stayhubapp&hl=en">Google Play</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <h3>🛡️ NEFT Training App — Safety & Certification Platform</h3>
+      <p><strong>2025 · Training Center App</strong></p>
+      <p>Precautionary training app for Neft Energies. Enables course browsing (fire safety, first aid), slot booking, exam portal, and digital certificate downloads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PDF_Certificates-E53935?style=flat"/>
+        <img src="https://img.shields.io/badge/REST_APIs-00897B?style=flat"/>
+      </p>
+      <a href="https://apps.apple.com/no/app/neft-training/id6469034112">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.neft.training&hl=en">Google Play</a>
+    </td>
+    <td width="50%">
       <h3>🌐 Real-Time Language Translator</h3>
       <p><strong>Feb 2024 – May 2024</strong></p>
-      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline-first Hive storage.</p>
+      <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline Hive storage.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=flat&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/GetX-9C27B0?style=flat"/>
         <img src="https://img.shields.io/badge/Hive-FF7800?style=flat"/>
       </p>
-    </td>
-    <td width="50%">
-      <h3>📱 More Projects Coming Soon...</h3>
-      <p><strong>Ongoing</strong></p>
-      <p>Always building. Check my repositories for the latest Flutter projects, experiments, and open-source contributions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-      </p>
-      <a href="https://github.com/NABEEL4731?tab=repositories">View All Repos →</a>
     </td>
   </tr>
 </table>
@@ -176,6 +189,7 @@ Core Values:
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![CometChat](https://img.shields.io/badge/CometChat-7B61FF?style=for-the-badge)
 ![Tuya IoT SDK](https://img.shields.io/badge/Tuya_IoT_SDK-FF6600?style=for-the-badge)
+![Smart Locks IoT](https://img.shields.io/badge/Smart_Locks_IoT-10B981?style=for-the-badge)
 ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 ![Hive](https://img.shields.io/badge/Hive-FF7800?style=for-the-badge)
