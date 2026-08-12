@@ -45,7 +45,7 @@ Core Values:
 
 ## 💼 Professional Experience
 
-### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Dec 2025 – Present)*
+### 🏢 Software Engineer · Orax Technologies, Lahore *(Dec 2025 – Present)*
 
 - 🏟️ **CourtPro** — Architected a scalable cross-platform sports facility reservation app with clean, modular Flutter code
 - 📺 **Led CourtPro Watch** — a major real-time live-scoring module with running match commentary, built as its own dedicated Wear OS live-viewer experience (separate from the booking flow):
@@ -58,16 +58,18 @@ Core Values:
 - 🧠 Implemented **Provider** with Repository + Service Pattern for scalable, testable state management
 - 📴 Added session persistence, offline booking views, and optimized navigation to reduce user drop-offs
 
-### 🏢 Software Engineer · Orax Technologies, Lahore *(Jun 2024 – Nov 2025)*
+### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Jun 2024 – Nov 2025)*
 
 - 🌬️ **TrustedAir** — Built a smart-venue IoT control app using Flutter, **Tuya IoT SDK**, and Firebase
+- 🏨 **StayHub Guest App** — Engineered direct host bookings, digital payment checkout via Stripe, guest identity verification, and IoT smart lock keyless entry
+- 🛡️ **NEFT Training App** — Developed safety course booking platform with in-app exams, announcement feeds, and instant PDF digital certificate downloads
 - 📈 Drove a **15% increase in user retention** via Material 3 UI with smooth animations and dark/light theming
 - ⚙️ Integrated Tuya SDK for device grouping, scheduling, mode changes, and real-time multi-device sync
 - 🚀 Boosted IoT command speed by **16%** via local caching, debounced commands, and optimized MQTT handling
 - 🏗️ Reduced development time by **12%** through a reusable widget library and modular folder structure
 - 📴 Added offline handling, device reconnection logic, and error-resilient command queues
 
-### 🏢 Software Engineer · Orax Technologies, Lahore *(Feb 2024 – May 2024)*
+### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Feb 2024 – May 2024)*
 
 - 🌐 Developed a real-time **text & voice translation app** using Flutter, Google ML Kit, and REST APIs
 - 🎙️ Implemented OCR, speech-to-text, text-to-speech, and auto language detection
@@ -89,7 +91,7 @@ Core Values:
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Wear_OS-4285F4?style=flat&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/WebSockets-000000?style=flat"/>
+        <img src="https://img.shields.io/badge/WebSockets-019BC6?style=flat"/>
         <img src="https://img.shields.io/badge/Provider-5C6BC0?style=flat"/>
       </p>
     </td>
@@ -197,7 +199,7 @@ Core Values:
 
 ### 🛠️ Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6E5494?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00897B?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4CAF50?style=for-the-badge)
@@ -218,7 +220,7 @@ Core Values:
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**
+**Bachelor of Science in Computer Science**  
 Government College University, Faisalabad, Pakistan *(2017 – 2021)*
 
 ---
