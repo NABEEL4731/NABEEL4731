@@ -17,7 +17,7 @@
 ```yaml
 Name:        Nabeel Ahmad
 Title:       Flutter Developer
-Experience:  2.5+ years — Cross-Platform Mobile Development (iOS & Android)
+Experience:  3 years — Cross-Platform Mobile Development (iOS & Android)
 Location:    Johar Town, Lahore, Pakistan 🇵🇰
 
 Current Focus:
@@ -45,10 +45,10 @@ Core Values:
 
 ## 💼 Professional Experience
 
-### 🏢 Software Engineer · Orax Technologies, Lahore *(Dec 2025 – Present)*
+### 🏢 Software Engineer · Orax Technologies, Lahore *(Jun 2025 – Present)*
 
 - 🏟️ **CourtPro** — Architected a scalable cross-platform sports facility reservation app with clean, modular Flutter code
-- 📺 **Led CourtPro Watch** — a major real-time live-scoring module with running match commentary, built as its own dedicated Wear OS live-viewer experience (separate from the booking flow):
+- 📺 **Led CourtPro Watch** — a major real-time live-scoring module with running match commentary, built as a standalone smartwatch companion for Apple Watch and Wear OS (separate from the booking flow):
   - Real-time score sync engine streaming point-by-point score + commentary updates with sub-second latency
   - Live match viewer screen: live score ticker, scrolling commentary feed, match timeline
 - 💬 Integrated **CometChat** for real-time messaging with read receipts, typing indicators, and live presence tracking
@@ -56,9 +56,9 @@ Core Values:
 - ⚡ Reduced API response latency by **15%** via caching, request batching, and optimized Dio HTTP handling
 - 🔥 Leveraged **Firebase** FCM, Crashlytics, Analytics, and Remote Config for monitoring and A/B testing
 - 🧠 Implemented **Provider** with Repository + Service Pattern for scalable, testable state management
-- 📴 Added session persistence, offline booking views, and optimized navigation to reduce user drop-offs
+- 🧭 Added session persistence, advanced error handling, and smoother navigation to reduce user drop-offs
 
-### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Jun 2024 – Nov 2025)*
+### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Nov 2023 – May 2025)*
 
 - 🌬️ **TrustedAir** — Built a smart-venue IoT control app using Flutter, **Tuya IoT SDK**, and Firebase
 - 🏨 **StayHub Guest App** — Engineered direct host bookings, digital payment checkout via Stripe, guest identity verification, and IoT smart lock keyless entry
@@ -68,10 +68,7 @@ Core Values:
 - 🚀 Boosted IoT command speed by **16%** via local caching, debounced commands, and optimized MQTT handling
 - 🏗️ Reduced development time by **12%** through a reusable widget library and modular folder structure
 - 📴 Added offline handling, device reconnection logic, and error-resilient command queues
-
-### 🏢 Associate Software Engineer · Orax Technologies, Lahore *(Feb 2024 – May 2024)*
-
-- 🌐 Developed a real-time **text & voice translation app** using Flutter, Google ML Kit, and REST APIs
+- 🌐 **Real-Time Language Translator** — Developed a text & voice translation app using Flutter, Google ML Kit, and REST APIs
 - 🎙️ Implemented OCR, speech-to-text, text-to-speech, and auto language detection
 - 📦 Delivered offline-first storage with **Hive**, bookmark system, and translation history
 - ⚡ Reduced design-to-development time by **14%** with a reusable Material 3 component library
@@ -84,9 +81,9 @@ Core Values:
 <table>
   <tr>
     <td width="50%">
-      <h3>📺 CourtPro Watch — Real-Time Wear OS Live Scoring Module</h3>
-      <p><strong>Dec 2025 – Present · Major Wear OS module led within CourtPro</strong></p>
-      <p>Standalone Wear OS live-match experience delivering real-time scoring, live score ticker, match commentary feed, and timeline updates without phone bookings.</p>
+      <h3>📺 CourtPro Watch — Live Match Companion for Apple Watch & Wear OS</h3>
+      <p><strong>Jun 2025 – Present · Smartwatch companion led within CourtPro</strong></p>
+      <p>Standalone Apple Watch and Wear OS live-match experience delivering real-time scoring, live score ticker, match commentary feed, and timeline updates without phone bookings.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Wear_OS-4285F4?style=flat&logo=google&logoColor=white"/>
@@ -97,8 +94,8 @@ Core Values:
     </td>
     <td width="50%">
       <h3>🏟️ CourtPro — Sports Facility Reservation App</h3>
-      <p><strong>Dec 2025 – Present</strong></p>
-      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and offline booking views.</p>
+      <p><strong>Jun 2025 – Present</strong></p>
+      <p>Cross-platform app enabling players to discover, book, and pay for sports courts in real time. Features live chat, Stripe payments, Firebase analytics, A/B testing, and session persistence.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
@@ -112,7 +109,7 @@ Core Values:
   <tr>
     <td width="50%">
       <h3>🌬️ TrustedAir — Smart IoT Control App</h3>
-      <p><strong>Jun 2024 – Nov 2025</strong></p>
+      <p><strong>2024 – 2025</strong></p>
       <p>IoT automation app providing real-time control over air purifiers with device grouping, scheduling, dark/light themes, and error-resilient offline handling.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
@@ -151,7 +148,7 @@ Core Values:
     </td>
     <td width="50%">
       <h3>🌐 Real-Time Language Translator</h3>
-      <p><strong>Feb 2024 – May 2024</strong></p>
+      <p><strong>Nov 2023 – May 2024</strong></p>
       <p>Translation app supporting text, voice, and OCR across multiple languages with speech recognition, text-to-speech, auto language detection, bookmark history, and offline Hive storage.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
